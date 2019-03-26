@@ -1,0 +1,123 @@
+{
+  "products" : [{
+  "id": 1,
+  "judul": "The Pop Shoppe - Grape",
+  "harga": "$6.34"
+}, {
+  "id": 2,
+  "judul": "Sping Loaded Cup Dispenser",
+  "harga": "$3.25"
+}, {
+  "id": 3,
+  "judul": "Quail Eggs - Canned",
+  "harga": "$2.87"
+}, {
+  "id": 4,
+  "judul": "Fond - Neutral",
+  "harga": "$1.24"
+}, {
+  "id": 5,
+  "judul": "Bread - Rye",
+  "harga": "$9.35"
+}, {
+  "id": 6,
+  "judul": "Ecolab - Hand Soap Form Antibac",
+  "harga": "$3.02"
+}, {
+  "id": 7,
+  "judul": "Chevril",
+  "harga": "$1.66"
+}, {
+  "id": 8,
+  "judul": "Water - Mineral, Carbonated",
+  "harga": "$2.90"
+}, {
+  "id": 9,
+  "judul": "Cassis",
+  "harga": "$9.82"
+}, {
+  "id": 10,
+  "judul": "Bread Base - Toscano",
+  "harga": "$4.57"
+}, {
+  "id": 11,
+  "judul": "Beans - Navy, Dry",
+  "harga": "$4.06"
+}, {
+  "id": 12,
+  "judul": "Graham Cracker Mix",
+  "harga": "$7.55"
+}, {
+  "id": 13,
+  "judul": "Sauce - Roasted Red Pepper",
+  "harga": "$4.65"
+}, {
+  "id": 14,
+  "judul": "Trueblue - Blueberry",
+  "harga": "$3.85"
+}, {
+  "id": 15,
+  "judul": "Bar Bran Honey Nut",
+  "harga": "$8.66"
+}, {
+  "id": 16,
+  "judul": "Dip - Tapenade",
+  "harga": "$8.06"
+}, {
+  "id": 17,
+  "judul": "Jam - Strawberry, 20 Ml Jar",
+  "harga": "$2.96"
+}, {
+  "id": 18,
+  "judul": "Soup - Campbells Beef Noodle",
+  "harga": "$9.44"
+}, {
+  "id": 19,
+  "judul": "Extract - Rum",
+  "harga": "$0.28"
+}, {
+  "id": 20,
+  "judul": "Bar Mix - Lime",
+  "harga": "$4.69"
+}, {
+  "id": 21,
+  "judul": "Cheese - Pied De Vents",
+  "harga": "$2.44"
+}, {
+  "id": 22,
+  "judul": "Beer - Paulaner Hefeweisse",
+  "harga": "$2.98"
+}, {
+  "id": 23,
+  "judul": "Canadian Emmenthal",
+  "harga": "$4.53"
+}, {
+  "id": 24,
+  "judul": "Peach - Fresh",
+  "harga": "$5.55"
+}, {
+  "id": 25,
+  "judul": "Soup - Campbells Broccoli",
+  "harga": "$3.48"
+}, {
+  "id": 26,
+  "judul": "Wine - Delicato Merlot",
+  "harga": "$2.37"
+}, {
+  "id": 27,
+  "judul": "Beef - Roasted, Cooked",
+  "harga": "$4.50"
+}, {
+  "id": 28,
+  "judul": "Nut - Hazelnut, Whole",
+  "harga": "$6.99"
+}, {
+  "id": 29,
+  "judul": "Cookies - Englishbay Chochip",
+  "harga": "$7.85"
+}, {
+  "id": 30,
+  "judul": "Wine - Lamancha Do Crianza",
+  "harga": "$0.10"
+}]
+}
